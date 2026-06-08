@@ -9,6 +9,12 @@
 
 ---
 
+## PDF
+
+- [Download PDF: I2OS Post-Scaling Intelligence Efficiency v1.0](https://github.com/i2os-lab/I2OS-Post-Scaling-Efficiency/releases/download/v1.0/I2OS_Post_Scaling_Efficiency_v1.0.pdf)
+
+---
+
 ## Overview
 
 Modern AI has advanced through scaling:
