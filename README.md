@@ -222,7 +222,6 @@ Capability is not permission.
 
 - [Runtime Evaluation Layer v1.2](docs/runtime_evaluation_layer_v1_2.md)
 
-- 
 ## Example Cases
 
 - [GO Case](examples/go_case.md)
