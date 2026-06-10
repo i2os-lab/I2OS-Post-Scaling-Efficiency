@@ -211,7 +211,7 @@ Capability is not permission.
 - [Runtime Gate](docs/runtime_gate.md)
 - [Efficiency Equation](docs/efficiency_equation.md)
 - [Transition Log: v1.0 to v1.1](docs/transition_log_v1_0_to_v1_1.md)
----
+- [Minimal Runtime Efficiency Gate v1.1](docs/minimal_runtime_efficiency_gate_v1_1.md)
 
 ## Example Cases
 
