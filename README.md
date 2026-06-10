@@ -210,10 +210,14 @@ Capability is not permission.
 - [Admissible Future Selection](docs/admissible_future_selection.md)
 - [Runtime Gate](docs/runtime_gate.md)
 - [Efficiency Equation](docs/efficiency_equation.md)
+
+## v1.1 Prototype
+
 - [Transition Log: v1.0 to v1.1](docs/transition_log_v1_0_to_v1_1.md)
 - [Minimal Runtime Efficiency Gate v1.1](docs/minimal_runtime_efficiency_gate_v1_1.md)
-- [Transition Test Cases v1.1](tests/transition_cases.md)
 - [Minimal Runtime Gate Prototype](src/i2os_efficiency_gate.py)
+- [Transition Test Cases v1.1](tests/transition_cases.md)
+
 
 ## Example Cases
 
