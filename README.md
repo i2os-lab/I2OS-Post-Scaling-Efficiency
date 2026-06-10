@@ -222,6 +222,12 @@ Capability is not permission.
 
 - [Runtime Evaluation Layer v1.2](docs/runtime_evaluation_layer_v1_2.md)
 
+## v1.2 Evaluation Prototype 
+
+- [Runtime Evaluation Layer v1.2](docs/runtime_evaluation_layer_v1_2.md)
+- [Runtime Evaluator Prototype](src/i2os_runtime_evaluator.py)
+- [Evaluation Test Cases v1.2](tests/evaluation_cases.md)
+
 ## Example Cases
 
 - [GO Case](examples/go_case.md)
