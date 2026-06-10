@@ -210,7 +210,7 @@ Capability is not permission.
 - [Admissible Future Selection](docs/admissible_future_selection.md)
 - [Runtime Gate](docs/runtime_gate.md)
 - [Efficiency Equation](docs/efficiency_equation.md)
-
+- [Transition Log: v1.0 to v1.1](docs/transition_log_v1_0_to_v1_1.md)
 ---
 
 ## Example Cases
