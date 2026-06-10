@@ -218,7 +218,11 @@ Capability is not permission.
 - [Minimal Runtime Gate Prototype](src/i2os_efficiency_gate.py)
 - [Transition Test Cases v1.1](tests/transition_cases.md)
 
+## v1.2 Direction
 
+- [Runtime Evaluation Layer v1.2](docs/runtime_evaluation_layer_v1_2.md)
+
+- 
 ## Example Cases
 
 - [GO Case](examples/go_case.md)
