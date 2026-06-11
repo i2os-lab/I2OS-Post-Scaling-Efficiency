@@ -236,9 +236,11 @@ Capability is not permission.
 - [Repair Path Prototype](src/i2os_repair_path.py)
 - [Repair Path Test Cases v1.4](tests/repair_path_cases.md)
   
-## v1.5 Direction
+## v1.5 Report Prototype
 
 - [Runtime Governance Report Layer v1.5](docs/runtime_governance_report_layer_v1_5.md)
+- [Governance Reporter Prototype](src/i2os_governance_reporter.py)
+- [Governance Report Test Cases v1.5](tests/governance_report_cases.md)
 
 ## Example Cases
 
