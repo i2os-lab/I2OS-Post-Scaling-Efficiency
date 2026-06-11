@@ -230,6 +230,12 @@ Capability is not permission.
 - [Trace Auditor Prototype](src/i2os_trace_auditor.py)
 - [Trace Audit Test Cases v1.3](tests/trace_audit_cases.md)
   
+## v1.4 Repair Prototype
+
+- [Recovery / Repair Path Layer v1.4](docs/recovery_repair_path_layer_v1_4.md)
+- [Repair Path Prototype](src/i2os_repair_path.py)
+- [Repair Path Test Cases v1.4](tests/repair_path_cases.md)
+  
 ## Example Cases
 
 - [GO Case](examples/go_case.md)
