@@ -224,10 +224,12 @@ Capability is not permission.
 - [Runtime Evaluator Prototype](src/i2os_runtime_evaluator.py)
 - [Evaluation Test Cases v1.2](tests/evaluation_cases.md)
 
-## v1.3 Direction
+## v1.3 Trace / Audit Prototype
 
 - [Runtime Trace / Audit Layer v1.3](docs/runtime_trace_audit_layer_v1_3.md)
-
+- [Trace Auditor Prototype](src/i2os_trace_auditor.py)
+- [Trace Audit Test Cases v1.3](tests/trace_audit_cases.md)
+  
 ## Example Cases
 
 - [GO Case](examples/go_case.md)
