@@ -245,6 +245,8 @@ Capability is not permission.
 ## v2.0 Integrated Runtime Governance Stack
 
 - [Integrated Runtime Governance Stack v2.0](docs/integrated_runtime_governance_stack_v2_0.md)
+- [Integrated Runtime Stack Prototype](src/i2os_integrated_runtime_stack.py)
+- [Integrated Runtime Stack Test Cases v2.0](tests/integrated_runtime_stack_cases.md)
 
 ## Example Cases
 
