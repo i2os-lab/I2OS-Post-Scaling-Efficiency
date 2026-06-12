@@ -241,6 +241,10 @@ Capability is not permission.
 - [Runtime Governance Report Layer v1.5](docs/runtime_governance_report_layer_v1_5.md)
 - [Governance Reporter Prototype](src/i2os_governance_reporter.py)
 - [Governance Report Test Cases v1.5](tests/governance_report_cases.md)
+- 
+## v2.0 Integrated Runtime Governance Stack
+
+- [Integrated Runtime Governance Stack v2.0](docs/integrated_runtime_governance_stack_v2_0.md)
 
 ## Example Cases
 
